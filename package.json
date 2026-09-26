@@ -37,7 +37,7 @@
     }
   },
   "dependencies": {
-    "playwright": "1.63.0-alpha-2026-08-05",
+    "playwright": "1.63.0",
     "playwright-core": "1.63.0-alpha-2026-08-05"
   },
   "devDependencies": {
